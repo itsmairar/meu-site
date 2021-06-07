@@ -1,0 +1,25 @@
+html {
+    font-size: 20px;
+    font-family: 'Source Sans Pro';
+    background-color: white);
+}
+
+h1{
+    font-size: 80px;
+    color: rgb(72, 160, 131);
+}
+
+h2{
+    font-size: 75px;
+    color: black;
+}
+
+#foto1{
+    margin: 0 auto;
+    border: 30px solid white;
+    border-radius: 500px;
+}
+
+body{
+    margin: 100px;
+}
